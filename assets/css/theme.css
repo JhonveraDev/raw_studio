@@ -1679,7 +1679,7 @@ body.header-transparent-on #tt-intro .full-height-vh {
 ======================= */
 .isotope-top-content {
 	position: relative;
-	padding: 50px 3% 50px 3%;
+	padding: 0px 3% 40px 3%;
 }
 
 /* if gutter enabled */
